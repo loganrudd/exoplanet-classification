@@ -1,7 +1,7 @@
 Exoplanet Classification
 ==============================
 
-An application of machine learning algorithms to identify exoplanets
+An application of machine learning algorithms to distinguish true exoplanets from false positives based on features such as transit/stellar properties and instrument characteristic parameters. Presentation slides available on prezi: https://prezi.com/view/9CwVN6Pa8MrmhdDJGUAH/
 
 Project Organization
 ------------
